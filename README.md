@@ -1,6 +1,6 @@
 # Limichange
 
-I'm learning english 😁
+I'm learning english 😁, and looking for a remote job 🧐.
 
 ## Project
  - [scroll-it](https://github.com/limichange/scroll-it) - Scroll div to the location specified
